@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dataviz/static/css/main.54d43338.chunk.css",
+    "main.js": "/dataviz/static/js/main.a5605c9e.chunk.js",
+    "main.js.map": "/dataviz/static/js/main.a5605c9e.chunk.js.map",
+    "runtime-main.js": "/dataviz/static/js/runtime-main.4015efe6.js",
+    "runtime-main.js.map": "/dataviz/static/js/runtime-main.4015efe6.js.map",
+    "static/css/2.7c35e809.chunk.css": "/dataviz/static/css/2.7c35e809.chunk.css",
+    "static/js/2.26ca18fe.chunk.js": "/dataviz/static/js/2.26ca18fe.chunk.js",
+    "static/js/2.26ca18fe.chunk.js.map": "/dataviz/static/js/2.26ca18fe.chunk.js.map",
+    "index.html": "/dataviz/index.html",
+    "precache-manifest.7b5917ac4872ebe2803674218fce10df.js": "/dataviz/precache-manifest.7b5917ac4872ebe2803674218fce10df.js",
+    "service-worker.js": "/dataviz/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/dataviz/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.54d43338.chunk.css.map": "/dataviz/static/css/main.54d43338.chunk.css.map",
+    "static/js/2.26ca18fe.chunk.js.LICENSE.txt": "/dataviz/static/js/2.26ca18fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4015efe6.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.26ca18fe.chunk.js",
+    "static/css/main.54d43338.chunk.css",
+    "static/js/main.a5605c9e.chunk.js"
+  ]
+}
