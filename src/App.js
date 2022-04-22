@@ -128,9 +128,7 @@ const App = () => {
           <p>Le polygone à droite représente le nombre de cas journalier dans le monde en fonction du temps,</p>
           <h3 style={{padding:"15px 0px "}}>API</h3>
           <p>Les informations sont fournies grace à l'api : https://disease.sh/v3/covid-19/</p>
-          <h3 style={{padding:"15px 0px "}}>Membres du groupe</h3>
-          <h5><li>Manel AISSAT</li></h5>
-          <h5><li>Raja LEMGARMEL</li></h5>
+          <h3 style={{padding:"15px 0px "}}>Réalisation</h3>
           <h5><li>Aghiles SAAL</li></h5>
         </Card>
       </div>
